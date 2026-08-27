@@ -1,0 +1,13 @@
+{
+  "drawdown_60": "Drawdown from the trailing 60-session high.",
+  "momentum_20": "Twenty-session price change.",
+  "momentum_5": "Five-session price change.",
+  "price_vs_sma20": "Distance of price from its 20-session average.",
+  "range_pct": "Current high-low range divided by close.",
+  "return_1d": "Current close-to-close return available after day t closes.",
+  "return_lag_1": "Previous day's return.",
+  "volatility_20": "Twenty-session standard deviation of returns.",
+  "volatility_5": "Five-session standard deviation of returns.",
+  "volatility_60": "Sixty-session standard deviation of returns.",
+  "volume_change_5": "Five-session percentage change in volume."
+}
